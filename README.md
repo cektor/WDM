@@ -5,7 +5,7 @@
 # WSY - Windows Sürücü Yöneticisi
 Windows Sürücülerini Yedekleyen ve Geri Yüklemeyi Sağlayan Profesyonel Bir Sürücü Yönetim Aracıdır.
 
-<h1 align="center">GiPac Logo</h1>
+<h1 align="center">WYS Logo</h1>
 
 <p align="center">
   <img src="wsy.png" alt="WSY Logo" width="150" height="150">
