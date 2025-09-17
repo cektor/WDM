@@ -25,7 +25,7 @@ Windows Sürücülerini Yedekleyen ve Geri Yüklemeyi Sağlayan Profesyonel Bir 
 
 # Windows'a doğrudan yüklemek için
 
-Windows Installer CMD (PowerShell): Doğrudan Bağlantı ile Windows CMD'den Yüklemek İçin.
+Windows Kurman İçin CMD (PowerShell): Doğrudan Bağlantı ile Windows CMD'den Yüklemek İçin.
 ```bash
 powershell -Command "Invoke-WebRequest -Uri 'https://github.com/cektor/WSY/releases/download/1.0.1/Setup_Win64.exe' -OutFile 'Setup_Win64.exe'" && start /wait Setup_Win64.exe
 ```
