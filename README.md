@@ -2,18 +2,18 @@
     <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/TR.svg" alt="made in TR">
 </a>
 
-# WSY - Windows Sürücü Yöneticisi
-Windows Sürücülerini Yedekleyen ve Geri Yüklemeyi Sağlayan Profesyonel Bir Sürücü Yönetim Aracıdır.
+# WDM - Windows Driver Manager
+A professional driver management tool that backs up and restores Windows drivers.
 
-<h1 align="center">WYS Logo</h1>
+<h1 align="center">WDM Logo</h1>
 
 <p align="center">
-  <img src="wsy.png" alt="WSY Logo" width="150" height="150">
+  <img src="wdm.png" alt="WSY Logo" width="150" height="150">
 </p>
 
 ----------------------------------
 
-# Windows Ekran Görüntüleri
+# Windows Screenshots
 ![](screenshots/1.png)  
 ![](screenshots/2.png)  
 ![](screenshots/3.png)
@@ -23,13 +23,13 @@ Windows Sürücülerini Yedekleyen ve Geri Yüklemeyi Sağlayan Profesyonel Bir 
 ![](screenshots/7.png)  
 --------------------
 
-# Windows'a doğrudan yüklemek için
+# To install directly on Windows
 
-Windows Kurman İçin CMD (PowerShell): Doğrudan Bağlantı ile Windows CMD'den Yüklemek İçin.
+Windows Installation via CMD (PowerShell): Installing Windows Directly from the Command Prompt.
 ```bash
-powershell -Command "Invoke-WebRequest -Uri 'https://github.com/cektor/WSY/releases/download/1.0.1/Setup_Win64.exe' -OutFile 'Setup_Win64.exe'" && start /wait Setup_Win64.exe
+powershell -Command "Invoke-WebRequest -Uri 'https://github.com/cektor/WDM/releases/download/1.0.1/Setup_Win64.exe' -OutFile 'Setup_Win64.exe'" && start /wait Setup_Win64.exe
 ```
 
 
 
-Yayın Sayfası: https://github.com/cektor/WSY/releases/tag/1.0.1
+Yayın Sayfası: https://github.com/cektor/WDM/releases/tag/1.0.1
