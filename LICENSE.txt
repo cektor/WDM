@@ -4,7 +4,7 @@ Licensor: ALG Software & Electronics
 Copyright Holder: Fatih ONDER (CekToR)
 
 1. Purpose
-This license ensures that the source code of the software "WSY - Windows Surucu Yedekleme" can be viewed, used, and distributed freely. However, any modifications, derivative works, or commercial use of the software are strictly prohibited.
+This license ensures that the source code of the software "WDM - Windows Driver Manager" can be viewed, used, and distributed freely. However, any modifications, derivative works, or commercial use of the software are strictly prohibited.
 
 2. Rights
 Users are permitted to:
