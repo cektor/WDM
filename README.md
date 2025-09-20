@@ -34,4 +34,4 @@ Start-Process -FilePath ".\Setup_Win64.exe" -Wait
 
 
 
-Yayın Sayfası: https://github.com/cektor/WDM/releases/tag/1.0.2
+Release: https://github.com/cektor/WDM/releases/tag/1.0.2
