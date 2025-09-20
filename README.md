@@ -27,7 +27,7 @@ A professional driver management tool that backs up and restores Windows drivers
 
 Windows Installation via CMD (PowerShell): Installing Windows Directly from the Command Prompt.
 ```bash
-powershell -Command "Invoke-WebRequest -Uri 'https://github.com/cektor/WDM/releases/download/1.0.2/Setup_Win64.exe' -OutFile 'Setup_Win64.exe'" && start /wait Setup_Win64.exe
+Invoke-WebRequest -Uri "https://github.com/cektor/WDM/releases/download/1.0.2/Setup_Win64.exe" -OutFile "Setup_Win64.exe" Start-Process -FilePath ".\Setup_Win64.exe" -Wait
 ```
 
 
